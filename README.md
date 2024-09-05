@@ -1,1 +1,1 @@
-Just a simple qr code generator using gorq api
+Just a simple qr code generator using goqr api
